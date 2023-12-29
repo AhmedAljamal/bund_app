@@ -24,23 +24,16 @@ A project in which there are two pages and many buttons. This application descri
 Challenges:
 Design Integration Across Devices:
 
-The main challenge was ensuring seamless design integration across various devices and ensuring a responsive user experience.
-Managing Variable States:
+The main challenge was to ensure seamless design integration across different devices and ensure a responsive user experience.
+Managing changing situations:
 
-Dealing with different states such as large and small screen states, and ensuring dynamic UI updates.
-Dimensional Flexibility:
+Handling different situations such as large and small screen situations, ensuring dynamic UI updates.
+Dimensional flexibility:
 
-Avoiding fixed dimensions inappropriately and working towards defining dimensions using relative units.
-Design Decisions:
-Utilizing LayoutBuilder:
+Avoid inappropriately fixed dimensions and work to specify dimensions using relative units.
 
-We decided to employ LayoutBuilder to check the screen size and determine the interface layout accordingly.
-Using ResponsiveWidget:
 
-We implemented a responsive approach using ResponsiveWidget to decide which layout to use based on screen size.
-Deploying Responsive Images:
+We've used responsive images that adapt to different screen resolutions to improve image quality.
+Clear documentation:
 
-We utilized responsive images that adapt to various screen resolutions to enhance image quality.
-Clear Documentation:
-
-We documented all challenges and design decisions in the README file to assist other developers in understanding and customizing the project.
+We've documented all challenges and design decisions in a README file to help other developers understand and customize the project.
